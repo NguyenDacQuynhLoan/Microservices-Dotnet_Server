@@ -1,9 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Controllers",
-    "\\Entites2"
+    "\\Controllers"
   ],
-  "SelectedNode": "\\NetcoreConcepts.csproj",
   "PreviewInSolutionExplorer": false
 }
